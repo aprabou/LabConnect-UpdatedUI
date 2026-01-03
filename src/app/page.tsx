@@ -25,7 +25,6 @@ export default function Landing() {
     <div className={styles.container}>
       {/* Main Content Area */}
       <main className={styles.main}>
-<<<<<<< HEAD
         {/* Hero */}
         <section className={styles.hero}>
           <div className={styles.heroContent}>
@@ -34,14 +33,6 @@ export default function Landing() {
                 <span className={styles.brandSlug}>Slug</span>
                 <span className={styles.brandLabs}>Labs</span>
               </h1>
-=======
-        {/* Logo and Tagline */}
-        <div className={styles.logoSection}>
-          <h1 className={styles.logoText}>
-            <span className={styles.slug}>Slug</span>
-            <span className={styles.labs}>Labs</span>
-          </h1>
->>>>>>> d04ea89d2a2b1ef2cebd4df424c6e3ed115a1234
 
               <p className={styles.heroLead}>
                 Streamlined access to UCSC research roles, matched to your
